@@ -67,6 +67,12 @@ The built files will be in the `dist` directory.
 - Recharts
 - Lucide React (icons)
 
+## Deployment
+
+This app is configured for GitHub Pages deployment. See [DEPLOYMENT_CHECKLIST.md](./DEPLOYMENT_CHECKLIST.md) for detailed deployment instructions.
+
+**Live Site**: https://praisekenedy84.github.io/spotyfy/
+
 ## License
 
 MIT
